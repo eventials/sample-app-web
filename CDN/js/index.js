@@ -24,7 +24,7 @@ function websdkready() {
    * The below generateSignature should be done server side as not to expose your api secret in public
    * You can find an eaxmple in here: https://marketplace.zoom.us/docs/sdk/native-sdks/web/essential/signature
    */
-  var API_SECRET = "J1yV0ccehKVPQQqziz86osh9lHLS68QciGN0";
+  var API_SECRET = "tK5RBuvK96iXA4uG1SIvRvaKOVJd0HYKkaOB";
 
   // some help code, remember mn, pwd, lang to cookie, and autofill.
   document.getElementById("display_name").value =
