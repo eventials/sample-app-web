@@ -74,7 +74,7 @@ function websdkready() {
     document.getElementById("display_name").value = "";
     document.getElementById("meeting_number").value = "";
     document.getElementById("meeting_pwd").value = "";
-    document.getElementById("meeting_lang").value = "pt-BR";
+    document.getElementById("meeting_lang").value = "pt-PT";
     document.getElementById("meeting_role").value = 0;
     window.location.href = "/index.html";
   });

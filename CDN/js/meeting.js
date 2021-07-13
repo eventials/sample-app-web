@@ -32,7 +32,7 @@ function websdkready() {
         return tmpArgs.email;
       }
     })(),
-    lang: "pt-BR",
+    lang: "pt-PT",
     signature: tmpArgs.signature || "",
     china: tmpArgs.china === "1",
   };
